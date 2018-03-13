@@ -33,7 +33,7 @@ apis:
   tags: Geo
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/geo/master/_listings/akamai/invoicing-api-v2-contracts-contractid-products-productid-geo-billing-files-year,month,day-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/geo/master/_listings/akamai/config-gtm-v1-domains-domain-geographic-maps-get.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
