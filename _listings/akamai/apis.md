@@ -20,8 +20,8 @@ tags:
 - Bots
 - Applications
 - API LIfeycle
-created: "2018-03-13"
-modified: "2018-03-13"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery/geo/master/_listings/akamai/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -33,7 +33,7 @@ apis:
   tags: Geo
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/geo/master/_listings/akamai/config-gtm-v1-domains-domain-geographic-maps-mapname-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/geo/master/_listings/akamai/diagnostic-tools-v1-ipgeolocator-ip-get.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
