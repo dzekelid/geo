@@ -9,9 +9,9 @@ x-alexaRank: ""
 tags:
 - News
 - Media
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/geo/master/_listings/new-york-times/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/geo/master/_listings/new-york-times/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: New York Times
@@ -23,7 +23,7 @@ apis:
   tags: Geo
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/geo/master/_listings/new-york-times/query-json-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/geo/master/_listings/new-york-times/query-json-get.md
 x-common:
 - type: x-application-gallery
   url: http://developer.nytimes.com/gallery
