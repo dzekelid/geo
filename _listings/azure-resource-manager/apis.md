@@ -12,8 +12,8 @@ tags:
 - Microsoft
 - Links
 - Deployment
-created: "2018-03-21"
-modified: "2018-03-21"
+created: "2018-03-23"
+modified: "2018-03-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/geo/master/_listings/azure-resource-manager/apis.yaml
 specificationVersion: "0.14"
 apis:
