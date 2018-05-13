@@ -31,6 +31,20 @@ x-common:
   url: https://twitter.com/opencagedata
 - type: x-website
   url: http://www.opencagedata.com/
+- type: x-base
+  url: http://api.opencagedata.com/
+- type: x-blog
+  url: http://blog.opencagedata.com/
+- type: x-blog-rss
+  url: http://blog.opencagedata.com/rss
+- type: x-github
+  url: https://github.com/opencagedata
+- type: x-pricing
+  url: https://geocoder.opencagedata.com/pricing
+- type: x-twitter
+  url: https://twitter.com/opencagedata
+- type: x-website
+  url: http://www.opencagedata.com/
 include: []
 maintainers:
 - FN: Kin Lane
