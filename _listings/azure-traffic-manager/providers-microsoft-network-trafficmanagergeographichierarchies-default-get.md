@@ -1,8 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: TrafficManagerManagementClient
+  title: Azure Traffic Manager API Geographic Hierarchies Get Default
   version: 1.0.0
+  description: Gets the default Geographic Hierarchy used by the Geographic traffic
+    routing method.
 host: management.azure.com
 basePath: /
 schemes:
